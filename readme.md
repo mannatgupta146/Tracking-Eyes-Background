@@ -15,11 +15,13 @@
 3. The eyes respond to user interactions smoothly.
 
 ## Screenshots
-1. Eye Tracking Animation:
-   ![Eye Tracking](./screenshot/tracking.png)
-   
-2. Eye Blinking Animation:
-   ![Eye Blinking](./screenshot/blinking.png)
+
+### 1. Eye Tracking Animation
+![Eye Tracking](./screenshot/tracking.png)
+
+### 2. Eye Blinking Animation
+![Eye Blinking](./screenshot/blinking.png)
+
 
 ## How to Use
 1. Clone the repository or download the files.
